@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/martineng/Documents/Programs/cs/bubbleSort/bubbleSort.csproj": {}
+  },
+  "projects": {
+    "/home/martineng/Documents/Programs/cs/bubbleSort/bubbleSort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/martineng/Documents/Programs/cs/bubbleSort/bubbleSort.csproj",
+        "projectName": "bubbleSort",
+        "projectPath": "/home/martineng/Documents/Programs/cs/bubbleSort/bubbleSort.csproj",
+        "packagesPath": "/home/martineng/.nuget/packages/",
+        "outputPath": "/home/martineng/Documents/Programs/cs/bubbleSort/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/martineng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

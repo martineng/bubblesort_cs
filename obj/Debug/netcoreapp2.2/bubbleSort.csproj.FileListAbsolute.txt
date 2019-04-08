@@ -1,0 +1,11 @@
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.csprojAssemblyReference.cache
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.csproj.CoreCompileInputs.cache
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.AssemblyInfoInputs.cache
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.AssemblyInfo.cs
+/home/martineng/Documents/Programs/cs/bubbleSort/bin/Debug/netcoreapp2.2/bubbleSort.deps.json
+/home/martineng/Documents/Programs/cs/bubbleSort/bin/Debug/netcoreapp2.2/bubbleSort.runtimeconfig.json
+/home/martineng/Documents/Programs/cs/bubbleSort/bin/Debug/netcoreapp2.2/bubbleSort.runtimeconfig.dev.json
+/home/martineng/Documents/Programs/cs/bubbleSort/bin/Debug/netcoreapp2.2/bubbleSort.dll
+/home/martineng/Documents/Programs/cs/bubbleSort/bin/Debug/netcoreapp2.2/bubbleSort.pdb
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.dll
+/home/martineng/Documents/Programs/cs/bubbleSort/obj/Debug/netcoreapp2.2/bubbleSort.pdb
