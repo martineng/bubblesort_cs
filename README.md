@@ -1,5 +1,4 @@
 # Bubble Sort in C#
-<br />
 Bubble Sort is the simplest Sorting Algorithm that repeatedly compare 2 elements and swapping the adjacent elements when there are not in the correct order.<br />
 <br />
 For Example:<br />
