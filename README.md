@@ -34,6 +34,8 @@ Fourt Scan: No Swap
 
 This example demonstrate that the Bubble Sort will always runs at O(n^2) even if it is a sorted data.
 
+| x | x | x |
+|---|---|---|
 | Worst and Average Case Time Complexity | O(n*n) | Worst case occurs when array is reverse sorted|
 | Best Case Time Complexity | O(n) | Best case occurs when array is already sorted |
 | Auxiliary Space | O(1) |  |
